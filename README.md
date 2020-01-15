@@ -12,8 +12,8 @@ https://hpi.de/naumann/projects/repeatability/datasets/restaurants-dataset.html
 
 Some of the functions are commented out. These include functions that print all street types,
 phone formats, etc. These were functions that helped in the auditing decisions. 
-If someone is to see the reason why some of the mapping was decided
-how it is currently, the code has to simply be uncommented. 
+If someone is interested to see the reason why some of the mapping was decided to
+how it currently is, the code has to simply be uncommented. 
 
 
 There is also a function to load the data into a MongoDB Atlas cluster. However, mongoimport 
